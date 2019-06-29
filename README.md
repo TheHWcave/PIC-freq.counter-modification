@@ -40,7 +40,4 @@ Other than these changes, the software and the comments are unchanged from Wolf'
 The hex file is for DISPLAY_VARIANT_2 and can be directly loaded into the PIC
 
 NOTE:
-A newer firmware version is now available in the "Hi Res and RPM mode" folder. The new firmware 
-has improved resolution in the range below 100 Hz and adds RPM (revolutions per minute) as 
-display option. But it has lost the offset programmability of this version. So the new version is 
-not a replacement. Both versions remain useful depending on your intended usage of the counter. 
+The latest firmware is now available in HiRes_Freq_RPM1234_Event_counter
