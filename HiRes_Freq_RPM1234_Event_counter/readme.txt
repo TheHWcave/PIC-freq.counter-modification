@@ -21,3 +21,5 @@ RP=4  = RPM 4 pulses per revolution up to 92145 RPM
 count = event counting up to 99999
 
 Note: in event counting mode, pressing the button at any time resets the counter back to zero
+
+Use the _V2 files which contain fixes for improved measurements in the 1..4MHz range and a fix in the timing loop. 
