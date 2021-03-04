@@ -22,4 +22,4 @@ count = event counting up to 99999
 
 Note: in event counting mode, pressing the button at any time resets the counter back to zero
 
-Use the _V3 files which contain fixes for improved measurements in the 100KHz..4MHz range and a fix in the timing loop. 
+The latest version are the files with the _V4 suffix which contain the fix for the pulse width problem and a fix in the timing loop plus that version can do over 100MHz in my tests.
